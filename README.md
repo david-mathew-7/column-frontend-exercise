@@ -13,7 +13,7 @@ This project is a React application designed to provide a dashboard for notices 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>` 
+   git clone https://github.com/david-mathew-7/column-frontend-exercise.git
 
 2. Install dependencies:
 
